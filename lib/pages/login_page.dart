@@ -43,8 +43,9 @@ class _LoginPageState extends State<LoginPage> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Icon(
-                  Icons.android,
-                  size: 100,
+                  Icons.heart_broken_sharp,
+                  size: 150,
+                  color: Colors.red,
                 ),
                 SizedBox(height: 75),
                 //Hello Again
